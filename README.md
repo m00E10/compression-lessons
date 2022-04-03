@@ -1,6 +1,4 @@
-Various compression algorithms and my attempts to implement them in go
+Various compression algorithms and my attempts to implement them in go for better understanding
 
-## Go Bitpacker
-A pseudo-bitpacker written in go, part of my studies in compression and understanding the different methods employed.
-
+### Go Bitpacker
 <img src="screenshots/bitpack.png" alt="go bitpacker"/>
